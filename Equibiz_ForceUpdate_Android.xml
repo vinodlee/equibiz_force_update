@@ -3,10 +3,10 @@
     <channel>
         <title>Equibiz</title>
         <item>
-            <title>Version 1.11.0</title>
+            <title>Version 1.12.0</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>December, 05 Jun 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.equibiz" sparkle:version="1.11.0" sparkle:os="android" />
+            <pubDate>December, 17 Jun 2022 10:40:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.equibiz" sparkle:version="1.12.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
